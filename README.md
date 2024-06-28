@@ -1,6 +1,6 @@
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hapo-congbv!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+CongThanh97!)](https://git.io/typing-svg)
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Wellcome+to+my+github!)](https://git.io/typing-svg)
   
